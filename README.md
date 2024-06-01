@@ -1,7 +1,6 @@
 # Conversor de Moedas
 Conversor de Moeda - Challenge ONE - Java - Back end
 
-Conversor de Moedas
 Este é o meu primeiro projeto a ser criado em Java em resposta ao desafio do Challenge ONE/Alura. Com esse projeto será possível aos usuários converterem valores entre diferentes moedas usando as taxas de câmbio mais recentes usando uma API.
 
 FUNCIONALIDADES
@@ -10,4 +9,4 @@ Moedas Disponíveis: O programa exibe uma lista de seis (6) moedas disponíveis 
 Encerramento Controlado: Os usuários podem sair do programa a qualquer momento digitando 0.
 
 
-- Emanuela Vieira
+by Emanuela Vieira
